@@ -40,4 +40,4 @@ function OnClick(event) {
   }
 };  
 
-console.log(galleryItems);
+// console.log(galleryItems);
